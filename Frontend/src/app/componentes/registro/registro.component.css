@@ -1,0 +1,8 @@
+div#registro {
+    width: 375px;
+    margin: auto;
+    margin-top: 90px;
+    background-color: slategray;
+    padding: 45px;
+    border-radius: 10%;
+}
